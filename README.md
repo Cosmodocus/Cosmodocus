@@ -49,6 +49,5 @@ Feel free to connect with me via email: 📧 homayunir@gmail.com.
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Cosmodocus&theme=github-dark-blue&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF2400&background=FFFFFF&sideLabels=333333&currStreakNum=FF2400&sideNums=1E71EB&currStreakLabel=333333&stroke=FF2400&border=1E71EB" alt="GitHub Streak"/>
-</p>
+<p align="center" width="100%">
+  <a href="https://git.io/streak-stats"><img width=100% src="https://streak-stats.demolab.com?user=Cosmodocus&card_width=526" alt="GitHub Streak" /></a>
