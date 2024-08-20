@@ -1,3 +1,15 @@
+![Banner](https://raw.githubusercontent.com/Cosmodocus/Cosmodocus/main/Github-Banner.png)
+
+<div id="badges" justify="center" align="center">
+  <a href="https://www.linkedin.com/in/reza-homayuni-0503861b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    </img>
+  </a> 
+ 
+ <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=Cosmodocus" alt="Profile Counter" />
+</p>
+</div>
 # 👨‍💻 About Me
 
 ---
