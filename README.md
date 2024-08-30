@@ -11,13 +11,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** based in Canada. My journey in tech has been fueled by a love for creating and optimizing full-stack applications.
+I'm a dedicated **Software Engineer** from Canada with a passion for developing and optimizing full-stack applications. I enjoy creating innovative solutions and enhancing user experiences.
 
-I've worked on many different applications such as:
-- **EdTech AI-Assistant Platform** ([Marvel AI](https://github.com/radicalxdev/marvel-platform))
-- **Personal Hub Application** ([Lounge](https://github.com/your-repo/lounge))
+Currently, I'm focused on **Marvel AI**, an Educational AI-Assistant Platform designed to improve workflows for educators and learners. It features advanced AI tools and chatbot functionalities. Check it out here: [Marvel AI](https://github.com/radicalxdev/marvel-platform).
 
 ## 🛠️ Skills
+
 
 **Frontend Development:**
 
