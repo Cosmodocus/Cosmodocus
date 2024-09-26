@@ -11,9 +11,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a dedicated **Software Engineer** from Canada with a passion for developing and optimizing full-stack applications. I enjoy creating innovative solutions and enhancing user experiences.
+I'm a dedicated **Frontend Software Engineer** from Canada with a passion for developing and optimizing web applications. I enjoy finding creative solutions for translating designs into code, as well as the intellectual stimulation of utilizing modern frontend technologies such as NextJS.
 
-Currently, I'm focused on **Marvel AI**, an Educational AI-Assistant Platform designed to improve workflows for educators and learners. It features advanced AI tools and chatbot functionalities. Check it out here: [Marvel AI](https://github.com/radicalxdev/marvel-platform).
+Currently, I'm focused on **Marvel AI**, an Educational AI-Assistant Platform designed to improve workflows for educators and learners. It features advanced AI tools and chatbot functionalities. Most of my contributions are either as a frontend developer, and as a team lead with my own team of developers. 
+
+Check it out here: [Marvel AI](https://github.com/radicalxdev/marvel-platform).
+
+
 
 ## 🛠️ Skills
 
