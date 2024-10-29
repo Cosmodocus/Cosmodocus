@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/Cosmodocus/Cosmodocus/main/Github-Banner.png)
+![image](https://github.com/user-attachments/assets/acdb635f-33f1-448f-8a6c-990d508ac34c)
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/reza-homayuni-0503861b6/">
