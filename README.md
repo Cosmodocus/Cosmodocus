@@ -12,8 +12,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a dedicated **Frontend developer** from Canada with a passion for developing and optimizing web applications. I enjoy finding creative solutions for translating designs into code, as well as the intellectual stimulation of utilizing modern frontend technologies such as React and NextJS.
+I'm a dedicated ***Frontend** and **Fullstack developer** from Canada with a passion for developing and optimizing web applications. At the present moment, I am a Frontend Developer for a Group Enroll, and Lead Fullstack Developer for Reality AI Labs. 
 
+Huge fan of anything software related, and I'm always learning and growing no matter what part of the journey I am! 
 
 ## 🛠️ Skills
 
