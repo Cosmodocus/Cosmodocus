@@ -1,6 +1,3 @@
-![Neon Green Grey Pixelated Tech Industry LinkedIn Banner (1)](https://github.com/user-attachments/assets/82ff4e89-0f5b-43d8-b48b-3cc7473439e5)
-
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/reza-homayuni-0503861b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
@@ -12,9 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a dedicated **Frontend** and **Fullstack developer** from Canada with a passion for developing and optimizing web applications. At the present moment, I am a Frontend Developer for a Group Enroll, and Lead Fullstack Developer for Reality AI Labs. 
-
-Huge fan of anything software related, and I'm always learning and growing no matter what part of the journey I am! 
+Frontend specialist with 7 years of experience, obsessively curious about client-facing technologies, products, and systems.
 
 ## 🛠️ Skills
 
