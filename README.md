@@ -9,7 +9,9 @@
 
 ## 👨‍💻 About Me
 
-Frontend specialist with 7 years of experience, obsessively curious about client-facing technologies, products, and systems.
+Frontend specialist with a focus on component architecture, state management, performance optimization, web accessibility, and styling. I build scalable, high-performing web apps that prioritize user experience and retention.
+
+I also consider myself an HTML engineer 😉
 
 ## 🛠️ Skills
 
